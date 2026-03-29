@@ -8,6 +8,8 @@ The following is a list of notable community-driven projects in the ecosystem re
 
 Browse the official MCP Registry in your browser!
 
+[Support Local Businesses](https://support-local-businesses.com) - Local business directory API serving 6.4M+ US businesses across 14,326 zip codes. Search, filter, and enrich business data with x402 micropayments on Base L2. Includes AI visibility reports, podcast generation, and agent-to-agent discovery via A2A protocol.
+
 - [MCP Bench](https://mcpbench.ai/)🔎 - Explore the MCP registry with richer filters, community stars, and LLM-generated classification tags.
 - [MCP Registry Database](https://lite.datasette.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2Frosmur%2Fofficial-mcp-registry-database%2Fmain%2Fofficial_mcp_registry.db#/official_mcp_registry/servers)🔎 - A minimal, web browsable, live database of the official MCP Registry [source code](https://github.com/rosmur/official-mcp-registry-database).
 - [TeamSpark AI Server Registry](https://teamsparkai.github.io/ToolCatalog/registry)🔎 - Browse and discover servers from the official MCP Registry ([source code](https://github.com/TeamSparkAI/ToolCatalog)).
